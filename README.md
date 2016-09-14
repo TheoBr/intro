@@ -86,7 +86,14 @@ If it's just after the first meeting and you're wondering what to do, check off 
 
 * Sign up for [Observatory](https://rcos.io) and [the slack](https://rcos.slack.com)
 * Find people or a project
-* Prepare a slide deck and proposal, email it to <email>
+* Prepare a "1 minute pitch" slide
+  * Only one per project
+  * See a [demo slide here](https://docs.google.com/presentation/d/18Q-k39aMotBVHTjnHGZRtuLVnS0hngvqTdnuLIvltYg/edit)
+  * Email it to Aaron at gundea@rpi.edu
+* Write a proposal for your project
+  * Only one per project
+  * Post it in the #Proposals channel in Slack
+  * Email it to rcos-at-rensselaer@googlegroups.com
 
 # Contributing to this repository
 
